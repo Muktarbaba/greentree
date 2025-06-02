@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/greentree/static/css/main.e1b0ccae.css",
+    "main.js": "/greentree/static/js/main.1bc191fb.js",
+    "static/js/453.f8ed7bac.chunk.js": "/greentree/static/js/453.f8ed7bac.chunk.js",
+    "static/media/aboutpic.png": "/greentree/static/media/aboutpic.964131e18804bae0d33d.png",
+    "static/media/hero1.png": "/greentree/static/media/hero1.069c0f8e5be9eee5f2c9.png",
+    "static/media/Group2.png": "/greentree/static/media/Group2.a8837d5820ca8c87429b.png",
+    "static/media/group1.png": "/greentree/static/media/group1.00e755ecd6cdb69aa50a.png",
+    "static/media/Group3.png": "/greentree/static/media/Group3.e3a6a4b6ee0a167c7380.png",
+    "static/media/bg.png": "/greentree/static/media/bg.19f5c8bfc7cc223cf670.png",
+    "static/media/card3.png": "/greentree/static/media/card3.b045d30333a2c9f388fd.png",
+    "static/media/card2.png": "/greentree/static/media/card2.3e87213058542400c7ce.png",
+    "static/media/card1.png": "/greentree/static/media/card1.7e58ca8df8690ca2e53c.png",
+    "static/media/heroimage1.png": "/greentree/static/media/heroimage1.3b48f0f8df19be069e00.png",
+    "static/media/hero2.png": "/greentree/static/media/hero2.1cfb949b94188e75d653.png",
+    "static/media/acrredit.png": "/greentree/static/media/acrredit.924dd1dc044d191e743a.png",
+    "static/media/footerimg.png": "/greentree/static/media/footerimg.7b123b9004cd287144c3.png",
+    "static/media/logo.png": "/greentree/static/media/logo.d36f12ea07defb2f0dcd.png",
+    "static/media/refer.svg": "/greentree/static/media/refer.2eb00cfa3c75d54574d3906aef895ef5.svg",
+    "static/media/instagram.svg": "/greentree/static/media/instagram.28820274262120617186f7579ba76b03.svg",
+    "static/media/slick.svg": "/greentree/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/greentree/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/greentree/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/linkedin.svg": "/greentree/static/media/linkedin.feedbaafb095721b1b832f45d198fa05.svg",
+    "static/media/call.svg": "/greentree/static/media/call.0a0f636d74c8228f3ec76332c42cbd52.svg",
+    "static/media/slick.woff": "/greentree/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/greentree/index.html",
+    "static/media/mail.svg": "/greentree/static/media/mail.3bc8ad46c9dafd795436d756c6a32095.svg",
+    "static/media/x.svg": "/greentree/static/media/x.93903e25c29fbd6f8cf49b482b3018f6.svg",
+    "static/media/facebook.svg": "/greentree/static/media/facebook.cad6016006d93316b199b7a4fb87c482.svg",
+    "main.e1b0ccae.css.map": "/greentree/static/css/main.e1b0ccae.css.map",
+    "main.1bc191fb.js.map": "/greentree/static/js/main.1bc191fb.js.map",
+    "453.f8ed7bac.chunk.js.map": "/greentree/static/js/453.f8ed7bac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1b0ccae.css",
+    "static/js/main.1bc191fb.js"
+  ]
+}
