@@ -1,19 +1,37 @@
 {
+  "homepage": "http://muktarbaba.github.io/greentree",
   "name": "greentree",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "date-fns": "^4.1.0",
+    "emailjs-com": "^3.2.0",
+    "flowbite": "^3.1.2",
+    "lucide-react": "^0.488.0",
     "react": "^19.1.0",
+    "react-datepicker": "^8.3.0",
     "react-dom": "^19.1.0",
+    "react-router": "^7.5.0",
+    "react-router-dom": "^7.5.0",
     "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.3",
+    "react-slick": "^0.30.3",
+    "react-toastify": "^11.0.5",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -35,5 +53,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "tailwindcss": "^3.4.17"
   }
 }
